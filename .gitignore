@@ -1,0 +1,8 @@
+#Archivos ignorados
+imagenes/
+venv/
+.venv/
+combinar.py
+GeneradorDeTareasWikipedia.py
+main.py
+otro.py
